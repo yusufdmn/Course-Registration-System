@@ -1,2 +1,2 @@
-# CSE3063F23P1_GRP5
-# Course Registration System
+# Course Registration System of Marmara University
+## Group project of 6
